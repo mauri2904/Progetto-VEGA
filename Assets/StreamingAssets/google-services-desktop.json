@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "87203713967",
+    "project_id": "vega-57150",
+    "storage_bucket": "vega-57150.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87203713967:android:d87a8d107f7a0ded05955a",
+        "android_client_info": {
+          "package_name": "com.unity.Vega"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMPHfUB5ePMUnN2LkiUv8cDMUcJdaQNhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
